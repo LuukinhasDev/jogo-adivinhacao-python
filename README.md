@@ -14,6 +14,7 @@ Aqui está uma breve descrição do que cada programa faz:
 * **`AdivinharNumero.py`**: Um jogo interativo onde o computador gera um número aleatório e o usuário tenta adivinhar.
 * **`AnalizadorDeTriangulos.py`**: Verifica se três comprimentos de retas podem formar um triângulo.
 * **`AnoBisexto.py`**: Analisa e determina se um ano fornecido pelo usuário é bissexto.
+* **`AprovarEmprestimo.py`**: Avalia a concessão de um empréstimo bancário com base no salário, valor da casa e quantidade de parcelas.
 * **`AumentoSalarial.py`**: Calcula o reajuste e o novo salário de um funcionável com base em faixas de ganho.
 * **`CalculadoraSimples.py`**: Executa operações matemáticas básicas a partir da entrada do usuário.
 * **`CustoDeViagem.py`**: Calcula o preço de uma passagem com base na distância percorrida (preço por km).
