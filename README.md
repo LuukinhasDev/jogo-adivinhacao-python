@@ -22,6 +22,7 @@ Aqui está uma breve descrição do que cada programa faz:
 * **`ConversorDeBases.py`**: Executa convesão de bases numéricas a partir de números inteiros.
 * **`CustoDeViagem.py`**: Calcula o preço de uma passagem com base na distância percorrida (preço por km).
 * **`MaiorEMenorValor.py`**: Lê diferentes números e aponta qual é o maior e qual é o menor entre eles.
+* **`MediaAluno.py`**: Calcula a média de duas notas e exibe se o aluno foi reprovado, aprovado ou ficou de recuperação.
 * **`ParOuImpar.py`**: Um script simples que identifica se o número digitado é par ou ímpar.
 * **`RadarEletronico.py`**: Simula o radar de trânsito, calculando multas caso a velocidade limite seja ultrapassada.
 
