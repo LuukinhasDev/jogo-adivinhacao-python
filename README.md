@@ -12,6 +12,7 @@ Este repositório foi criado para centralizar e organizar os scripts, desafios e
 Aqui está uma breve descrição do que cada programa faz:
 
 * **`AdivinharNumero.py`**: Um jogo interativo onde o computador gera um número aleatório e o usuário tenta adivinhar.
+* **`AlistamentoMilitar.py`**: Um script que recebe o ano de nascimento do usuário e diz se ele está ou não apto para o alistamento militar.
 * **`AnalizadorDeTriangulos.py`**: Verifica se três comprimentos de retas podem formar um triângulo.
 * **`AnoBisexto.py`**: Analisa e determina se um ano fornecido pelo usuário é bissexto.
 * **`AprovarEmprestimo.py`**: Avalia a concessão de um empréstimo bancário com base no salário, valor da casa e quantidade de parcelas.
