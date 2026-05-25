@@ -28,6 +28,7 @@ Aqui está uma breve descrição do que cada programa faz:
 * **`MaiorEMenorValor.py`**: Lê diferentes números e aponta qual é o maior e qual é o menor entre eles.
 * **`MediaAluno.py`**: Calcula a média de duas notas e exibe se o aluno foi reprovado, aprovado ou ficou de recuperação.
 * **`ParOuImpar.py`**: Um script simples que identifica se o número digitado é par ou ímpar.
+* **`PedraPapelTesoura.py`**: Jogo de Pedra, Papel ou Tesoura contra a máquina
 * **`RadarEletronico.py`**: Simula o radar de trânsito, calculando multas caso a velocidade limite seja ultrapassada.
 
 ## 🛠️ Como executar os scripts
