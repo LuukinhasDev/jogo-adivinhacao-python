@@ -29,6 +29,7 @@ Aqui está uma breve descrição do que cada programa faz:
 * **`MediaAluno.py`**: Calcula a média de duas notas e exibe se o aluno foi reprovado, aprovado ou ficou de recuperação.
 * **`ParOuImpar.py`**: Um script simples que identifica se o número digitado é par ou ímpar.
 * **`PedraPapelTesoura.py`**: Jogo de Pedra, Papel ou Tesoura contra a máquina
+* **`PrograssaoAritimetica.py`**: Mostra dez termos de uma PA e como será a contagem a partir de um início definido pelo usúario
 * **`RadarEletronico.py`**: Simula o radar de trânsito, calculando multas caso a velocidade limite seja ultrapassada.
 * **`SomaDosPares.py`**: Lê seis números inteiros e soma somente os que forem pares.
 * **`SomaImpares.py`**: Conta e soma todos os valores impares e multiplos de três e exibe.
