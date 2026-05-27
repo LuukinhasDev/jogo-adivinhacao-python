@@ -31,6 +31,7 @@ Aqui está uma breve descrição do que cada programa faz:
 * **`PedraPapelTesoura.py`**: Jogo de Pedra, Papel ou Tesoura contra a máquina
 * **`RadarEletronico.py`**: Simula o radar de trânsito, calculando multas caso a velocidade limite seja ultrapassada.
 * **`SomaImpares.py`**: Conta e soma todos os valores impares e multiplos de três e exibe.
+* **`Tabuada.py`**: Exibe uma tabuada com o intervalo sendo definido pelo usuário.
 
 ## 🛠️ Como executar os scripts
 
