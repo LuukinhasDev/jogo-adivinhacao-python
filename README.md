@@ -30,6 +30,7 @@ Aqui está uma breve descrição do que cada programa faz:
 * **`ParOuImpar.py`**: Um script simples que identifica se o número digitado é par ou ímpar.
 * **`PedraPapelTesoura.py`**: Jogo de Pedra, Papel ou Tesoura contra a máquina
 * **`RadarEletronico.py`**: Simula o radar de trânsito, calculando multas caso a velocidade limite seja ultrapassada.
+* **`SomaDosPares.py`**: Lê seis números inteiros e soma somente os que forem pares.
 * **`SomaImpares.py`**: Conta e soma todos os valores impares e multiplos de três e exibe.
 * **`Tabuada.py`**: Exibe uma tabuada com o intervalo sendo definido pelo usuário.
 
