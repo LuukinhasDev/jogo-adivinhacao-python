@@ -23,6 +23,7 @@ Aqui está uma breve descrição do que cada programa faz:
 * **`ComparandoNumeros.py`**: Compara dois números e diz qual é maior.
 * **`ConversorDeBases.py`**: Executa convesão de bases numéricas a partir de números inteiros.
 * **`CustoDeViagem.py`**: Calcula o preço de uma passagem com base na distância percorrida (preço por km).
+* **`DetectorDePalindromo.py`**: Recebe um texto e diz se ele é ou não um palíndromo.
 * **`GerenciadorDePagamentos.py`**: Simulação de um sistema de pagamentos de uma loja.
 * **`IndiceDeMassaCorporal.py`**: Calcula o preço de uma passagem com base na distância percorrida (preço por km).
 * **`MaiorEMenorValor.py`**: Lê diferentes números e aponta qual é o maior e qual é o menor entre eles.
