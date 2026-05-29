@@ -25,6 +25,7 @@ Aqui está uma breve descrição do que cada programa faz:
 * **`CustoDeViagem.py`**: Calcula o preço de uma passagem com base na distância percorrida (preço por km).
 * **`DetectorDePalindromo.py`**: Recebe um texto e diz se ele é ou não um palíndromo.
 * **`GerenciadorDePagamentos.py`**: Simulação de um sistema de pagamentos de uma loja.
+* **`GrupoMaioridade.py`**: Recebe o ano de nascimento de 7 pessoas e diz quatas delas são maiores de 18 anos e quantas são menores.
 * **`IndiceDeMassaCorporal.py`**: Calcula o preço de uma passagem com base na distância percorrida (preço por km).
 * **`MaiorEMenorValor.py`**: Lê diferentes números e aponta qual é o maior e qual é o menor entre eles.
 * **`MediaAluno.py`**: Calcula a média de duas notas e exibe se o aluno foi reprovado, aprovado ou ficou de recuperação.
