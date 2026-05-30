@@ -27,6 +27,7 @@ Aqui está uma breve descrição do que cada programa faz:
 * **`GerenciadorDePagamentos.py`**: Simulação de um sistema de pagamentos de uma loja.
 * **`GrupoMaioridade.py`**: Recebe o ano de nascimento de 7 pessoas e diz quatas delas são maiores de 18 anos e quantas são menores.
 * **`IndiceDeMassaCorporal.py`**: Calcula o preço de uma passagem com base na distância percorrida (preço por km).
+* **`MaiorEMenorDaSequencia.py`**: Recebe o valor do peso de 5 pessoas e retorna o maior valor e o menor valor lido.
 * **`MaiorEMenorValor.py`**: Lê diferentes números e aponta qual é o maior e qual é o menor entre eles.
 * **`MediaAluno.py`**: Calcula a média de duas notas e exibe se o aluno foi reprovado, aprovado ou ficou de recuperação.
 * **`NumerosPrimos.py`**: Recebe um valor e diz se ele é ou não um número primo.
