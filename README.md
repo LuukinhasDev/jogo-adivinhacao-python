@@ -39,6 +39,7 @@ Aqui está uma breve descrição do que cada programa faz:
 * **`SomaDosPares.py`**: Lê seis números inteiros e soma somente os que forem pares.
 * **`SomaImpares.py`**: Conta e soma todos os valores impares e multiplos de três e exibe.
 * **`Tabuada.py`**: Exibe uma tabuada com o intervalo sendo definido pelo usuário.
+* **`ValidaçãoDeDados.py`**: Script que recebe o sexo masculino ou feminino e registra, qualquer outro valor não é registrado e o usuário deve digitar novamente.
 
 ## 🛠️ Como executar os scripts
 
