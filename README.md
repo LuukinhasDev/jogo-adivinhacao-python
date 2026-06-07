@@ -11,6 +11,7 @@ Este repositório foi criado para centralizar e organizar os scripts, desafios e
 
 Aqui está uma breve descrição do que cada programa faz:
 
+* **`AdivinhaNumeroV2.0.py`**: Um jogo onde o usuário deve adivinhar qual número aleatório o computador pensou.
 * **`AdivinharNumero.py`**: Um jogo interativo onde o computador gera um número aleatório e o usuário tenta adivinhar.
 * **`AlistamentoMilitar.py`**: Um script que recebe o ano de nascimento do usuário e diz se ele está ou não apto para o alistamento militar.
 * **`AnalisadorCompleto.py`**: Um script que recebe nome, idade e sexo de quatro pessoas e retorna a média de idade de todos, nome do homem mais velho e quantas mulheres com menos de 20 anos tem
