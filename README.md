@@ -32,6 +32,7 @@ Aqui está uma breve descrição do que cada programa faz:
 * **`MaiorEMenorDaSequencia.py`**: Recebe o valor do peso de 5 pessoas e retorna o maior valor e o menor valor lido.
 * **`MaiorEMenorValor.py`**: Lê diferentes números e aponta qual é o maior e qual é o menor entre eles.
 * **`MediaAluno.py`**: Calcula a média de duas notas e exibe se o aluno foi reprovado, aprovado ou ficou de recuperação.
+* **`MenuComOpcoes.py`**: Script que recebe 2 valores e exibe um menu com 5 opçoes, entre elas operções para o usuário realizar com esses valores.
 * **`NumerosPrimos.py`**: Recebe um valor e diz se ele é ou não um número primo.
 * **`ParOuImpar.py`**: Um script simples que identifica se o número digitado é par ou ímpar.
 * **`PedraPapelTesoura.py`**: Jogo de Pedra, Papel ou Tesoura contra a máquina
